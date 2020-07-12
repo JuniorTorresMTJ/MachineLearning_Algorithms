@@ -1,2 +1,2 @@
 # MachineLearning_Algorithms
-Algoritmo de Machine Learning usados
+Algoritmos de Machine Learning usados
